@@ -6,3 +6,5 @@ When I commit this change, it should be signed with my YubiKey nano and that sig
 Well, it wasn't, so I need to figure out why.
 
 Hmm, seems I used the wrong key. Let's try again.
+
+Turned out that the committer email wasn't the same as the one in the signature. Trying again
